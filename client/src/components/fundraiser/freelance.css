@@ -1,0 +1,58 @@
+.crowfunder {
+    max-width: 60%;
+    margin: auto;
+    overflow-wrap: break-word;
+}
+
+.crowfunder > h1 {
+margin-bottom: 1rem;
+}
+
+.FreelancedText {
+    margin-top: 1rem;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.FreelanceDescription {
+    text-align: justify;
+    padding-top: 1rem;
+}
+.crowdfunderPBar {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.FreelancePicture {
+    max-width: 60%;
+    max-height: fit-content;
+    opacity: 0.7;
+    margin-bottom: 2rem;
+}
+
+.donationForm {
+    background-image: linear-gradient(to right, yellow, limegreen);
+    border-radius: 1.5rem;
+    max-width: 30%;
+    margin: auto;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+}
+
+.comments {
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.LogInToComment {
+    background-color: red;
+    color: white;
+    max-width: 30%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.container {
+text-align: center;
+}

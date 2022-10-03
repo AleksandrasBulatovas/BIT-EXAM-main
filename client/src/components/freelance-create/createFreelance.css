@@ -1,0 +1,12 @@
+.FreelanceCreate h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+ label {
+    text-align: left;
+}
+.form {
+    width: 50%;
+    margin: auto;
+}
